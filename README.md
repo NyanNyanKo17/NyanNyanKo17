@@ -49,7 +49,6 @@
 
 ### Свяжитесь со мной:
 
-- [LinkedIn](ссылка)
 - [Email](mailto:elainewoods@yandex.ru)
 - [vk](https://vk.com/nikateras)
 
