@@ -42,15 +42,16 @@
 
 ### Проекты:
 
-- **[Проект 1](ссылка)**: Краткое описание.
+- **[Разработка Android-приложения для изучения языков программирования]((https://github.com/NyanNyanKo17/python-learning-app))**: Краткое описание.
 - **[Проект 2](ссылка)**: Краткое описание.
 
 ---
 
 ### Свяжитесь со мной:
-
-- [Email](mailto:elainewoods@yandex.ru)
-- [vk](https://vk.com/nikateras)
+<div align="center">
+  <a href="mailto:elainewoods@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://vk.com/nikateras"><img src="https://img.shields.io/badge/VK-4680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+</div>
 
 ---
 
